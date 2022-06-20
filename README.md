@@ -28,10 +28,10 @@ Run ```test.py``` using default hyper-parameter settings.
 ```bash
 $ python test.py
 ```
-If you want to change the default settings (e.g. modifying the ```val_batch_size``` since you have multiple GPUs), simply run
+If you want to change the default settings (e.g. modifying the ```batchSize``` since you have multiple GPUs), simply run
 
 ```bash
-$ python test.py -val_batch_size 2
+$ python test.py -batchSize 32
 ```
 It is exactly the same way to modify any other hyper-parameters as shown above. For more details about the meaning of each hyper-parameter, please run
 
