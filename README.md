@@ -12,7 +12,7 @@ This repo contains the official training and testing codes for our research.
 - ```train.py``` and ```test.py``` are the entry codes for training and testing the RDDN.
 - ```train_data.py``` and ```val_data.py``` are used to load the training and validation/testing datasets.
 ```residual_dense_block.py``` builds the [RDB](https://arxiv.org/abs/1802.08797) block.
-- ```perceptual.py``` defines the network for [perceptual loss](https://arxiv.org/abs/1603.08155).
+- ```perceptual.py``` defines the network for [Perceptual Loss](https://arxiv.org/abs/1603.08155).
 - ```utils.py``` contains all corresponding utilities.
 - ```./checkpoints/10_[3,5,7,9]_24/best_psnr.pth``` is the trained weights for outdoor in SOTS from [RESIDE](https://sites.google.com/view/reside-dehaze-datasets/reside-v0?authuser=0), where 10 stand for the number of epochs and [3,5,7,9] are milestones. 
 
