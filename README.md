@@ -3,7 +3,7 @@ This repo contains the official training and testing codes for our research.
 
 ## Prerequisites
 - Python >= 3.7
-- Torch = 1.7.1
+- Torch >= 1.6.1
 - Torchvision = 0.8.2 
 - Pillow >= 5.1.0  
 - Numpy >= 1.14.3
