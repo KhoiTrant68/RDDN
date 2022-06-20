@@ -53,7 +53,7 @@ $ python train.py
 ```
 
 ### Demonstration
-Only listed several examples, more results can be found in my [github](https://github.com/Seanforfun/GMAN_Net_Haze_Removal/tree/master/Results).
+Only listed several examples, more results can be found in my [github](https://github.com/Haakon68/RDDN).
 <table>
 	<tr>
 		<th>Hazy</th>
